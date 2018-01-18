@@ -1,0 +1,26 @@
+.allyFace {
+	width: 250px;
+	position: relative;
+	float: left;
+	padding: 10px 20px 10px 10px;
+}
+
+.aboutMe {
+	background-color: #ffffff;
+	border: #dddddd;
+	margin-bottom: 20px;
+	padding: 10px 20px 0 10px;
+	top: 28px;
+}
+
+.aboutMe a {
+	color: #269390;
+}
+
+.aboutMe a:hover {
+	color: #3c3839;
+}
+
+.aboutMe p {
+	padding: 10px 0 0 20px;
+}
